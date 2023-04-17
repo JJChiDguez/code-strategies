@@ -1,6 +1,7 @@
 # Computing Quotient Groups of Smooth Order with Applications to Isogenies over Higher-Dimensional Abelian Varieties
 
 This code corresponds with the work titled: "Computing Quotient Groups of Smooth Order with Applications to Isogenies over Higher-Dimensional Abelian Varieties".
+The preprint version is available at [eprint 2023/508](https://eprint.iacr.org/2023/508).
 
 
 ## Requirements
@@ -18,7 +19,7 @@ The (3^n,3^n)-isogeny implementation from [eprint 2023/376](https://eprint.iacr.
 
 ## Examples
 
-The **SageMath*-language code allows testing different over prime fields and allows to decide using [or not] the strategies.
+The **SageMath**-language code allows testing different over prime fields and allows to decide using [or not] the strategies.
 We automatize using the __shortcut__ as an input argument.
 Adding more prime fields from the file `main.sage` is straightforward and intuitive.
 ```bash
@@ -94,4 +95,4 @@ magma SIKEp751_attack.m
 
 ## Remarks
 
-We are going to query the authors from  [eprint 2022/1283](https://eprint.iacr.org/2022/1283) to include our implementation of the strategies (as a pull request).
+We already did a [Pull Request](https://github.com/jack4818/Castryck-Decru-SageMath/pull/27) to the repository from [eprint 2022/1283](https://eprint.iacr.org/2022/1283).
