@@ -1,6 +1,6 @@
-# Computing Quotient Groups of Smooth Order with Applications to Isogenies over Higher-Dimensional Abelian Varieties
+# Computing Isogenies of Power-Smooth Degrees Between PPAVs
 
-This code corresponds with the work titled: "Computing Quotient Groups of Smooth Order with Applications to Isogenies over Higher-Dimensional Abelian Varieties".
+This code corresponds with the work titled: "Computing Isogenies of Power-Smooth Degrees Between PPAVs".
 The preprint version is available at [eprint 2023/508](https://eprint.iacr.org/2023/508).
 
 
